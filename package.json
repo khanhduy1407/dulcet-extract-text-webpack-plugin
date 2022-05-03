@@ -1,0 +1,31 @@
+{
+  "name": "dulcet-extract-text-webpack-plugin",
+  "version": "0.5.0",
+  "author": "NKDuy",
+  "description": "Extract text from bundle into a file.",
+  "peerDependencies": {
+    "@dulcetjs/webpack": "^2.2.1"
+  },
+  "dependencies": {
+    "async": "~0.2.10",
+    "source-map": "~0.1.38",
+    "loader-utils": "~0.2.3"
+  },
+  "devDependencies": {
+    "file-loader": "*",
+    "style-loader": "*",
+    "css-loader": "*",
+    "@dulcetjs/webpack": "*"
+  },
+  "homepage": "http://github.com/khanhduy1407/dulcet-extract-text-webpack-plugin",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/khanhduy1407/dulcet-extract-text-webpack-plugin.git"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ]
+}
